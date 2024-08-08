@@ -1,0 +1,58 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+i{
+cursor: pointer;}
+nav{
+    background-color: #2c3e50;
+    width: 100%;
+   
+}
+.nav-link ,.nav{
+    cursor: pointer;
+}
+.bg{
+    background-color: #1abc9c;
+}
+.padding{
+    padding: 6px;
+}
+.homepage{
+    background-color: #2c3e50;
+ 
+}
+
+
+li{
+    margin: 15px;
+    
+    
+}
+.home{
+    background-color: #1abc9c;
+    height: 85vh;
+}
+img{
+    width: 250px;
+}
+.icons i{
+   border: white 2px solid;
+   border-radius: 50%;
+   padding: 10px;
+}
+.line{
+    width: 80px;
+    height: 3px;
+    background-color: white;
+    margin: 20px;
+}
+.contact{
+    height: 30vh;
+}
+.foot{
+    background-color: #1a252f;
+    height: 80px;
+}
